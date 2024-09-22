@@ -6,3 +6,9 @@ Create 4 K8s Config Files
 2. Secret -> MongoDB User & Password
 3. Deployement & Service -> MongoDB Application with internal Service 
 4. Deployement & Service -> Our own WebApp with external Service 
+
+
+Steps:
+1. Run docker desktop
+2. In terminal, write command -> minikube start
+3. 
